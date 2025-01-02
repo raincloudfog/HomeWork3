@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\qordl\\source\\repos\\assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0582AE31-6DFE-4C07-B591-F87B70977B9D}|assignment\\assignment.vcxproj|C:\\Users\\qordl\\source\\repos\\assignment\\assignment\\SimpleVector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0582AE31-6DFE-4C07-B591-F87B70977B9D}|assignment\\assignment.vcxproj|solutionrelative:assignment\\SimpleVector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0582AE31-6DFE-4C07-B591-F87B70977B9D}|assignment\\assignment.vcxproj|C:\\Users\\qordl\\source\\repos\\assignment\\assignment\\BackupSimpleVec.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0582AE31-6DFE-4C07-B591-F87B70977B9D}|assignment\\assignment.vcxproj|solutionrelative:assignment\\BackupSimpleVec.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0582AE31-6DFE-4C07-B591-F87B70977B9D}|assignment\\assignment.vcxproj|C:\\Users\\qordl\\source\\repos\\assignment\\assignment\\SimpleVector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0582AE31-6DFE-4C07-B591-F87B70977B9D}|assignment\\assignment.vcxproj|solutionrelative:assignment\\SimpleVector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0582AE31-6DFE-4C07-B591-F87B70977B9D}|assignment\\assignment.vcxproj|C:\\Users\\qordl\\source\\repos\\assignment\\assignment\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0582AE31-6DFE-4C07-B591-F87B70977B9D}|assignment\\assignment.vcxproj|solutionrelative:assignment\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BackupSimpleVec.h",
+              "DocumentMoniker": "C:\\Users\\qordl\\source\\repos\\assignment\\assignment\\BackupSimpleVec.h",
+              "RelativeDocumentMoniker": "assignment\\BackupSimpleVec.h",
+              "ToolTip": "C:\\Users\\qordl\\source\\repos\\assignment\\assignment\\BackupSimpleVec.h",
+              "RelativeToolTip": "assignment\\BackupSimpleVec.h",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAHoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-30T03:48:26.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SimpleVector.h",
+              "DocumentMoniker": "C:\\Users\\qordl\\source\\repos\\assignment\\assignment\\SimpleVector.h",
+              "RelativeDocumentMoniker": "assignment\\SimpleVector.h",
+              "ToolTip": "C:\\Users\\qordl\\source\\repos\\assignment\\assignment\\SimpleVector.h",
+              "RelativeToolTip": "assignment\\SimpleVector.h",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAAAMIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-30T03:00:44.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SimpleVector.cpp",
+              "DocumentMoniker": "C:\\Users\\qordl\\source\\repos\\assignment\\assignment\\SimpleVector.cpp",
+              "RelativeDocumentMoniker": "assignment\\SimpleVector.cpp",
+              "ToolTip": "C:\\Users\\qordl\\source\\repos\\assignment\\assignment\\SimpleVector.cpp",
+              "RelativeToolTip": "assignment\\SimpleVector.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAD0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-30T01:48:48.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\qordl\\source\\repos\\assignment\\assignment\\Main.cpp",
+              "RelativeDocumentMoniker": "assignment\\Main.cpp",
+              "ToolTip": "C:\\Users\\qordl\\source\\repos\\assignment\\assignment\\Main.cpp",
+              "RelativeToolTip": "assignment\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-30T01:44:39.726Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
